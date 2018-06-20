@@ -1,0 +1,35 @@
+
+# Level 1
+# Single block direct hit
+
+
+START_LEVEL
+level_name:space invaders
+background:color(black)
+paddle_speed:650
+paddle_width:80
+block_definitions:definitions/alien.txt
+blocks_start_x:25
+blocks_start_y:50
+row_height:25
+num_blocks:1
+START_BLOCKS
+z-z-z-z-z-z-z-z-z-z
+-
+z-z-z-z-z-z-z-z-z-z
+-
+z-z-z-z-z-z-z-z-z-z
+-
+z-z-z-z-z-z-z-z-z-z
+-
+z-z-z-z-z-z-z-z-z-z
+-
+-
+-
+-
+-
+-
+-
+END_BLOCKS
+END_LEVEL
+
