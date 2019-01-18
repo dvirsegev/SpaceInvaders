@@ -2,7 +2,7 @@
  I implement a version of the classic 80s game Space Invaders.
  
  # TO RUN: 
--unzip ass7.zip.  
--make compile
--make jar
--java -jar space-invaders.jar
+1.-unzip ass7.zip.  
+2.-make compile
+3.-make jar
+4.-java -jar space-invaders.jar
