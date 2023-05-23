@@ -1,0 +1,15 @@
+resources:
+  - kind: folder
+    selector:
+      query: 'true'
+      folders:
+        - path: /*
+          repos:
+            - ios_project
+    port:
+      entity:
+        mappings:
+          identifier: .folderName
+          blueprint: '"folder"'
+          properties:
+            link: "'abc'"
