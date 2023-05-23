@@ -9,7 +9,7 @@ resources:
     port:
       entity:
         mappings:
-          identifier: .folder.name
-          blueprint: "folder"
+          identifier: ".folder.name"
+          blueprint: '"folder"'
           properties:
-            link: "abc"
+            link: '"abc"'
