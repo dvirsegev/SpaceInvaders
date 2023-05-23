@@ -12,4 +12,4 @@ resources:
           identifier: .folderName
           blueprint: '"folder"'
           properties:
-            link: "'ac'"
+            link: "'abc'"
