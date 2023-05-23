@@ -3,7 +3,7 @@ resources:
     selector:
       query: 'true'
       folders:
-        - path: /*
+        - path: Port-app-config.yml/*
           repos:
             - ios_project
     port:
