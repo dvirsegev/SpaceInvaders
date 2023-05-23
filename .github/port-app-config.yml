@@ -3,7 +3,7 @@ resources:
     selector:
       query: 'true'
       folders:
-        - path: Port-app-config.yml/*
+        - path: SpaceInvaders/*
           repos:
             - ios_project
     port:
