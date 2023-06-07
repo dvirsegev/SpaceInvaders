@@ -2,6 +2,7 @@
   identifier: "activeeight"
   properties:
     email: "activeeight@flipsidecrypto.com"
+    group_name: "activeeeight"
   relations:
     admins: []
     group-admins: []
