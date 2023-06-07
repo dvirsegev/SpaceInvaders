@@ -1,0 +1,1917 @@
+- identifier: "access-flipside-team"
+  properties:
+    collaborators: []
+    privacy: "closed"
+  relations:
+    members:
+    - "shaun"
+    - "chris"
+    - "hannah"
+    - "shaun-hutch"
+    - "chris-nersesyan"
+    - "hannah-lerman"
+  title: "Access Flipside Team"
+- blueprint: "group"
+  identifier: "activeeight"
+  properties:
+    email: "activeeight@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "andrew"
+    - "jim"
+    - "phil"
+    owners: []
+  title: "Activeeight"
+- blueprint: "group"
+  identifier: "aft-management"
+  properties:
+    email: "aft-management@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "jon"
+  title: "Aft Management"
+- blueprint: "group"
+  identifier: "alec-k"
+  properties:
+    email: "alec.k@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "alec"
+    owners:
+    - "denise"
+    - "simon"
+  title: "Alec K"
+- blueprint: "group"
+  identifier: "alec-k"
+  properties:
+    email: "alec.k@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "alec"
+    owners:
+    - "denise"
+    - "simon"
+  title: "Alec.K"
+- identifier: "analyst"
+  properties:
+    collaborators: []
+    privacy: "closed"
+  relations:
+    members:
+    - "jim"
+    - "julius"
+    - "kellen"
+    - "jim-myers"
+    - "julius-remigio"
+    - "kellen-blumberg"
+  title: "Analyst"
+- blueprint: "group"
+  identifier: "analytics"
+  properties:
+    aliases: []
+    collaborators: []
+    email: "analytics@flipsidecrypto.com"
+    privacy: "closed"
+  relations:
+    admins:
+    - "danielle"
+    - "eric-laurello"
+    - "james"
+    - "julius"
+    - "liz"
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "austin"
+    - "ava"
+    - "graham"
+    - "jack-forgash"
+    - "jessica"
+    - "joan"
+    - "juan"
+    - "michael-dillon"
+    - "nick"
+    - "robel"
+    - "ryan"
+    - "sam"
+    - "shah"
+    - "tarik"
+    - "trevor"
+    - "xiuyang"
+    - "james"
+    - "julius"
+    - "liz"
+    - "eric-laurello"
+    - "danielle"
+    - "shah-khan"
+    - "james-mission"
+    - "julius-remigio"
+    - "graham-onders"
+    - "ava-masucci"
+    - "joan-kallogjeri"
+    - "tarik-ceric"
+    - "liz-martinis"
+    - "whytewyll"
+    - "ryan-loofbourrow"
+    - "trevor-wenokur"
+    - "nick-payiatis"
+    - "jessica-huhnke"
+    - "robel-mebrahtu"
+    - "austin-blackerby"
+    - "xiuyang-guan"
+    - "chye-yuen-tay"
+    - "danielle-lulich"
+    owners: []
+  title: "Analytics"
+- blueprint: "group"
+  identifier: "analytics-engineers"
+  properties:
+    collaborators: []
+    email: "analytics-engineers@flipsidecrypto.com"
+    privacy: "closed"
+  relations:
+    admins:
+    - "julius"
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "ryan"
+    - "shah"
+    - "xiuyang"
+    - "julius"
+    - "shah-khan"
+    - "julius-remigio"
+    - "ryan-loofbourrow"
+    - "xiuyang-guan"
+    owners: []
+  title: "Analytics Engineers"
+- blueprint: "group"
+  identifier: "analytics-requests"
+  properties:
+    email: "analytics-requests@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "xiuyang"
+    owners:
+    - "james"
+  title: "Analytics Requests"
+- blueprint: "group"
+  identifier: "api"
+  properties:
+    email: "api@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "avi"
+    - "dave"
+    - "don"
+    - "eric"
+    - "jim"
+    owners: []
+  title: "Api"
+- identifier: "api-team"
+  properties:
+    collaborators: []
+    privacy: "secret"
+  relations:
+    members:
+    - "don"
+    - "matt-bridges"
+    - "jim"
+    - "anthony"
+    - "omkar"
+    - "sebastian"
+    - "morgan-termaat"
+    - "don-cote"
+    - "jim-myers"
+    - "anthony-gabriele"
+    - "sebastian-ruiz"
+  title: "Api Team"
+- blueprint: "group"
+  identifier: "apple"
+  properties:
+    email: "apple@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "phil"
+  title: "Apple"
+- identifier: "backend"
+  properties:
+    collaborators: []
+    privacy: "secret"
+  relations:
+    members:
+    - "don"
+    - "artin"
+    - "eric"
+    - "jim"
+    - "omkar"
+    - "don-cote"
+    - "artin-rebekale"
+    - "eric-stone"
+    - "jim-myers"
+  title: "Backend"
+- blueprint: "group"
+  identifier: "basket-dailycryptobasket-com"
+  properties:
+    email: "basket@dailycryptobasket.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "eric"
+    - "jim"
+    - "phil"
+    owners: []
+  title: "Basket"
+- blueprint: "group"
+  identifier: "basket-dailycryptobasket-com"
+  properties:
+    email: "basket@dailycryptobasket.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "eric"
+    - "jim"
+    - "phil"
+    owners: []
+  title: "Basket"
+- blueprint: "group"
+  identifier: "billing"
+  properties:
+    aliases: []
+    email: "billing@flipsidecrypto.com"
+  relations:
+    admins:
+    - "andrew"
+    - "mike-featherstone"
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "devin"
+    - "nick-fulton"
+    - "ryan-shon"
+    - "willhoffman"
+    owners: []
+  title: "Billing"
+- blueprint: "group"
+  identifier: "chainwalker"
+  properties:
+    aliases: []
+    collaborators: []
+    email: "chainwalker@flipsidecrypto.com"
+    privacy: "closed"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "anthony"
+    - "artin"
+    - "chance-h"
+    - "greg"
+    - "jason"
+    - "omkar"
+    - "paul"
+    - "ryan-king"
+    - "artin-rebekale"
+    - "greg-north"
+    - "anthony-gabriele"
+    - "paul-mikulskis"
+    - "chance-herriage"
+    owners: []
+  title: "Chainwalker"
+- identifier: "chainwalkers-admins"
+  properties:
+    collaborators: []
+    privacy: "closed"
+  relations:
+    members:
+    - "don"
+    - "artin"
+    - "eric"
+    - "jim"
+    - "angela"
+    - "omkar"
+    - "james"
+    - "paul"
+    - "don-cote"
+    - "artin-rebekale"
+    - "eric-stone"
+    - "jim-myers"
+    - "angela-minster"
+    - "james-mission"
+    - "paul-mikulskis"
+  title: "Chainwalkers Admins"
+- identifier: "chainwalkers-zcoin"
+  properties:
+    collaborators: []
+    privacy: "secret"
+  relations:
+    members:
+    - "jim"
+    - "jim-myers"
+  title: "Chainwalkers Zcoin"
+- blueprint: "group"
+  identifier: "classroom-teachers"
+  properties:
+    email: "classroom_teachers@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners: []
+  title: "Classroom Teachers"
+- blueprint: "group"
+  identifier: "classroom-teachers"
+  properties:
+    email: "classroom_teachers@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners: []
+  title: "Classroom_teachers"
+- blueprint: "group"
+  identifier: "clusters-prod"
+  properties:
+    email: "clusters-prod@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners: []
+  title: "Clusters Prod"
+- blueprint: "group"
+  identifier: "clusters-stg"
+  properties:
+    email: "clusters-stg@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners: []
+  title: "Clusters Stg"
+- blueprint: "group"
+  identifier: "coinalert"
+  properties:
+    email: "coinalert@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "eric"
+    - "jim"
+    - "omkar"
+    - "phil"
+    owners: []
+  title: "Coinalert"
+- blueprint: "group"
+  identifier: "compass"
+  properties:
+    email: "compass@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners: []
+  title: "Compass"
+- blueprint: "group"
+  identifier: "content-hub"
+  properties:
+    email: "content-hub@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "14four"
+    - "daniel"
+    - "jim-aws"
+    - "jim"
+    - "jon"
+    - "kyle"
+    owners: []
+  title: "Content Hub"
+- blueprint: "group"
+  identifier: "contentreport"
+  properties:
+    email: "contentreport@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "daniel"
+    - "don"
+    owners:
+    - "meg"
+  title: "Contentreport"
+- blueprint: "group"
+  identifier: "dailybasket"
+  properties:
+    email: "dailybasket@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "dave"
+    - "jim"
+    - "phil"
+    owners: []
+  title: "Dailybasket"
+- blueprint: "group"
+  identifier: "data"
+  properties:
+    email: "data@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "avi"
+    owners:
+    - "dave"
+    - "eric"
+    - "jim"
+  title: "Data"
+- identifier: "data-engineering"
+  properties:
+    collaborators: []
+    privacy: "secret"
+  relations:
+    members:
+    - "don"
+    - "artin"
+    - "matt-bridges"
+    - "jim"
+    - "omkar"
+    - "will"
+    - "kellen"
+    - "don-cote"
+    - "artin-rebekale"
+    - "jim-myers"
+    - "will-price"
+    - "kellen-blumberg"
+  title: "Data Engineering"
+- blueprint: "group"
+  identifier: "data-partnerships"
+  properties:
+    email: "data-partnerships@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "denise"
+    - "kyle"
+    - "simon"
+  title: "Data Partnerships"
+- blueprint: "group"
+  identifier: "data-platform"
+  properties:
+    collaborators: []
+    email: "data-platform@flipsidecrypto.com"
+    privacy: "closed"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "anthony"
+    - "artin"
+    - "chance-h"
+    - "greg"
+    - "jason"
+    - "omkar"
+    - "paul"
+    - "ryan-king"
+    - "artin-rebekale"
+    - "greg-north"
+    - "anthony-gabriele"
+    - "paul-mikulskis"
+    - "chance-herriage"
+    owners: []
+  title: "Data Platform"
+- blueprint: "group"
+  identifier: "data-science"
+  properties:
+    collaborators: []
+    email: "data-science@flipsidecrypto.com"
+    privacy: "closed"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "angela"
+    - "eric"
+    - "graham"
+    - "kellen"
+    - "liz"
+    - "matt-bridges"
+    - "julius"
+    - "mason"
+    - "joan"
+    - "will"
+    - "nhat-nguyen"
+    - "nick"
+    - "rishi-shah-flipside"
+    - "charlie-marketplace"
+    - "eric-stone"
+    - "angela-minster"
+    - "julius-remigio"
+    - "graham-onders"
+    - "mason-stacker"
+    - "joan-kallogjeri"
+    - "will-price"
+    - "kellen-blumberg"
+    - "nick-payiatis"
+    owners: []
+  title: "Data Science"
+- blueprint: "group"
+  identifier: "data-shares"
+  properties:
+    email: "data-shares@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "alec"
+    - "ben"
+    - "dave"
+    - "denise"
+    - "eric"
+    - "james"
+    - "jamesholloway"
+    - "john"
+    - "larry"
+    - "liz"
+    - "ramsha"
+    - "simon"
+    owners:
+    - "jim"
+  title: "Data Shares"
+- identifier: "devops"
+  properties:
+    collaborators: []
+    privacy: "closed"
+  relations:
+    members:
+    - "don"
+    - "jim"
+    - "jon"
+    - "don-cote"
+    - "jim-myers"
+    - "jon-bogaty"
+  title: "Devops"
+- blueprint: "group"
+  identifier: "devops-bot"
+  properties:
+    email: "devops-bot@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "don"
+    - "jim"
+    - "jon"
+    - "omkar"
+  title: "Devops Bot"
+- identifier: "door"
+  properties:
+    collaborators: []
+    privacy: "closed"
+  relations:
+    members:
+    - "don"
+    - "artin"
+    - "eric"
+    - "jim"
+    - "angela"
+    - "omkar"
+    - "james"
+    - "joan"
+    - "ryan"
+    - "kellen"
+    - "sebastian"
+    - "don-cote"
+    - "artin-rebekale"
+    - "eric-stone"
+    - "jim-myers"
+    - "angela-minster"
+    - "james-mission"
+    - "joan-kallogjeri"
+    - "ryan-loofbourrow"
+    - "kellen-blumberg"
+    - "sebastian-ruiz"
+  title: "Door"
+- blueprint: "group"
+  identifier: "engineering"
+  properties:
+    aliases: []
+    collaborators: []
+    email: "engineering@flipsidecrypto.com"
+    privacy: "closed"
+  relations:
+    admins:
+    - "andrew"
+    - "bryan"
+    - "danielle"
+    - "don"
+    - "ed"
+    - "eric"
+    - "greg"
+    - "james"
+    - "jim-aws"
+    - "jim"
+    - "jon"
+    - "julius"
+    - "kyle"
+    - "omkar"
+    - "shaun"
+    - "simon"
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "angela"
+    - "anthony"
+    - "artin"
+    - "austin"
+    - "ava"
+    - "chance-h"
+    - "chris"
+    - "drake"
+    - "elise"
+    - "eric-laurello"
+    - "erik"
+    - "graham"
+    - "hannah"
+    - "jack-forgash"
+    - "jessica"
+    - "joan"
+    - "juan"
+    - "kellen"
+    - "liz"
+    - "mason"
+    - "michael-dillon"
+    - "morgan-termaat"
+    - "nick"
+    - "paul"
+    - "robel"
+    - "ryan-king"
+    - "ryan"
+    - "sam"
+    - "sebastian"
+    - "shah"
+    - "tarik"
+    - "trevor"
+    - "xiuyang"
+    - "don"
+    - "simon"
+    - "greg"
+    - "eric"
+    - "jim"
+    - "jon"
+    - "shaun"
+    - "ed"
+    - "omkar"
+    - "james"
+    - "bryan"
+    - "julius"
+    - "kyle"
+    - "danielle"
+    - "andrew"
+    - "don-cote"
+    - "simon-spencer"
+    - "artin-rebekale"
+    - "greg-north"
+    - "eric-stone"
+    - "jim-myers"
+    - "jon-bogaty"
+    - "anthony-gabriele"
+    - "shah-khan"
+    - "angela-minster"
+    - "shaun-hutch"
+    - "edward-fleming"
+    - "james-mission"
+    - "chris-nersesyan"
+    - "bryan-cinman"
+    - "drake-danner"
+    - "julius-remigio"
+    - "paul-mikulskis"
+    - "chance-herriage"
+    - "graham-onders"
+    - "ava-masucci"
+    - "mason-stacker"
+    - "joan-kallogjeri"
+    - "hannah-lerman"
+    - "tarik-ceric"
+    - "liz-martinis"
+    - "whytewyll"
+    - "ryan-loofbourrow"
+    - "trevor-wenokur"
+    - "kyle-fugere"
+    - "kellen-blumberg"
+    - "sebastian-ruiz"
+    - "nick-payiatis"
+    - "jessica-huhnke"
+    - "robel-mebrahtu"
+    - "austin-blackerby"
+    - "xiuyang-guan"
+    - "chye-yuen-tay"
+    - "erik-brakke"
+    - "danielle-lulich"
+    - "andrew-sparling"
+    owners: []
+  title: "Engineering"
+- identifier: "engineering-consultants"
+  properties:
+    collaborators: []
+    privacy: "closed"
+  relations:
+    members:
+    - "eric"
+    - "jim"
+    - "omkar"
+    - "eric-stone"
+    - "jim-myers"
+  title: "Engineering Consultants"
+- blueprint: "group"
+  identifier: "finops"
+  properties:
+    aliases: []
+    email: "finops@flipsidecrypto.com"
+  relations:
+    admins:
+    - "andrew"
+    - "mike-featherstone"
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "devin"
+    - "nick-fulton"
+    - "ryan-shon"
+    - "willhoffman"
+    owners: []
+  title: "Finops"
+- identifier: "flipsters"
+  properties:
+    collaborators: []
+    privacy: "closed"
+  relations:
+    members:
+    - "jim"
+    - "bob-the-dog"
+    - "0xkrane"
+    - "jim-myers"
+  title: "Flipsters"
+- identifier: "frontend"
+  properties:
+    collaborators: []
+    privacy: "closed"
+  relations:
+    members:
+    - "don"
+    - "matt-bridges"
+    - "jim"
+    - "anthony"
+    - "chris"
+    - "bryan"
+    - "joan"
+    - "meg-fsc"
+    - "sebastian"
+    - "morgan-termaat"
+    - "don-cote"
+    - "jim-myers"
+    - "anthony-gabriele"
+    - "chris-nersesyan"
+    - "bryan-cinman"
+    - "joan-kallogjeri"
+    - "sebastian-ruiz"
+  title: "Frontend"
+- blueprint: "group"
+  identifier: "gcp-billing-admins"
+  properties:
+    email: "gcp-billing-admins@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "jon"
+  title: "Gcp Billing Admins"
+- blueprint: "group"
+  identifier: "gcp-developers"
+  properties:
+    email: "gcp-developers@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "jon"
+  title: "Gcp Developers"
+- blueprint: "group"
+  identifier: "gcp-devops"
+  properties:
+    email: "gcp-devops@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "jon"
+  title: "Gcp Devops"
+- blueprint: "group"
+  identifier: "gcp-logging-admins"
+  properties:
+    email: "gcp-logging-admins@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "jon"
+  title: "Gcp Logging Admins"
+- blueprint: "group"
+  identifier: "gcp-logging-viewers"
+  properties:
+    email: "gcp-logging-viewers@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "jon"
+  title: "Gcp Logging Viewers"
+- blueprint: "group"
+  identifier: "gcp-monitoring-admins"
+  properties:
+    email: "gcp-monitoring-admins@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "jon"
+  title: "Gcp Monitoring Admins"
+- blueprint: "group"
+  identifier: "gcp-network-admins"
+  properties:
+    email: "gcp-network-admins@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "jon"
+  title: "Gcp Network Admins"
+- blueprint: "group"
+  identifier: "gcp-organization-admins"
+  properties:
+    email: "gcp-organization-admins@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "jon"
+  title: "Gcp Organization Admins"
+- blueprint: "group"
+  identifier: "gcp-security-admins"
+  properties:
+    email: "gcp-security-admins@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "jon"
+  title: "Gcp Security Admins"
+- blueprint: "group"
+  identifier: "governance"
+  properties:
+    aliases:
+    - "ecosystem"
+    collaborators: []
+    email: "governance@flipsidecrypto.com"
+    privacy: "closed"
+  relations:
+    admins:
+    - "avi"
+    - "jes"
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "fig"
+    - "ian"
+    - "jessica"
+    - "raphael"
+    - "ian-dobbins"
+    - "jessica-huhnke"
+    owners: []
+  title: "Governance"
+- blueprint: "group"
+  identifier: "growth"
+  properties:
+    email: "growth@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "avi"
+    - "dave"
+    - "jim"
+    - "omkar"
+    - "phil"
+    - "rochelle"
+    owners: []
+  title: "Growth"
+- blueprint: "group"
+  identifier: "hello"
+  properties:
+    email: "hello@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "aaron-ahmadi"
+    - "avi"
+    - "corinne"
+    - "dave"
+    - "rochelle"
+    owners:
+    - "kyle"
+  title: "Hello"
+- blueprint: "group"
+  identifier: "hello-dailycryptobasket-com"
+  properties:
+    email: "hello@dailycryptobasket.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "eric"
+    - "jim"
+    - "omkar"
+    owners: []
+  title: "Hello"
+- blueprint: "group"
+  identifier: "hello-dailycryptobasket-com"
+  properties:
+    email: "hello@dailycryptobasket.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "eric"
+    - "jim"
+    - "omkar"
+    owners: []
+  title: "Hello"
+- blueprint: "group"
+  identifier: "hubspot-integrations"
+  properties:
+    email: "hubspot-integrations@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "denise"
+    - "jim"
+    - "kyle"
+    - "simon"
+  title: "Hubspot Integrations"
+- blueprint: "group"
+  identifier: "indexers"
+  properties:
+    email: "indexers@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners: []
+  title: "Indexers"
+- blueprint: "group"
+  identifier: "invoices"
+  properties:
+    aliases: []
+    email: "invoices@flipsidecrypto.com"
+  relations:
+    admins:
+    - "andrew"
+    - "mike-featherstone"
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "devin"
+    - "nick-fulton"
+    - "ryan-shon"
+    - "willhoffman"
+    owners: []
+  title: "Invoices"
+- blueprint: "group"
+  identifier: "ir"
+  properties:
+    aliases: []
+    email: "ir@flipsidecrypto.com"
+  relations:
+    admins:
+    - "andrew"
+    - "mike-featherstone"
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "devin"
+    - "nick-fulton"
+    - "ryan-shon"
+    - "willhoffman"
+    owners: []
+  title: "Ir"
+- blueprint: "group"
+  identifier: "jim-test-group"
+  properties:
+    email: "jim-test-group@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "jim"
+    owners: []
+  title: "Jim Test Group"
+- blueprint: "group"
+  identifier: "jira-integrations"
+  properties:
+    email: "jira-integrations@flipsidecrypto.com"
+  relations:
+    admins:
+    - "simon"
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "daniel"
+  title: "Jira Integrations"
+- blueprint: "group"
+  identifier: "leads"
+  properties:
+    aliases: []
+    collaborators: []
+    email: "leads@flipsidecrypto.com"
+    privacy: "closed"
+  relations:
+    admins:
+    - "andrew"
+    - "bryan"
+    - "danielle"
+    - "don"
+    - "ed"
+    - "eric"
+    - "greg"
+    - "james"
+    - "jim-aws"
+    - "jim"
+    - "jon"
+    - "julius"
+    - "kyle"
+    - "omkar"
+    - "shaun"
+    - "simon"
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "don"
+    - "simon"
+    - "greg"
+    - "eric"
+    - "jim"
+    - "jon"
+    - "shaun"
+    - "ed"
+    - "omkar"
+    - "james"
+    - "bryan"
+    - "julius"
+    - "kyle"
+    - "danielle"
+    - "andrew"
+    - "don-cote"
+    - "simon-spencer"
+    - "greg-north"
+    - "eric-stone"
+    - "jim-myers"
+    - "jon-bogaty"
+    - "shaun-hutch"
+    - "edward-fleming"
+    - "james-mission"
+    - "bryan-cinman"
+    - "julius-remigio"
+    - "kyle-fugere"
+    - "danielle-lulich"
+    - "andrew-sparling"
+    owners: []
+  title: "Leads"
+- blueprint: "group"
+  identifier: "ledger"
+  properties:
+    email: "ledger@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "dave"
+    - "jeff"
+    - "jim"
+  title: "Ledger"
+- blueprint: "group"
+  identifier: "legal"
+  properties:
+    email: "legal@flipsidecrypto.com"
+  relations:
+    admins:
+    - "mari"
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "andrew"
+    - "ryan-king"
+    - "steve-companycounsel-biz"
+    owners:
+    - "mike-featherstone"
+  title: "Legal"
+- blueprint: "group"
+  identifier: "mail"
+  properties:
+    email: "mail@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "devin"
+    - "jes"
+    - "willhoffman"
+    owners: []
+  title: "Mail"
+- blueprint: "group"
+  identifier: "managednine"
+  properties:
+    email: "managednine@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "andrew"
+    - "jim"
+    - "phil"
+    owners: []
+  title: "Managednine"
+- blueprint: "group"
+  identifier: "marklar"
+  properties:
+    email: "marklar@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners: []
+  title: "Marklar"
+- blueprint: "group"
+  identifier: "morgan"
+  properties:
+    email: "morgan@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "jes"
+  title: "Morgan"
+- blueprint: "group"
+  identifier: "network"
+  properties:
+    email: "network@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "jon"
+  title: "Network"
+- blueprint: "group"
+  identifier: "nfts"
+  properties:
+    email: "nfts@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "jim"
+  title: "Nfts"
+- blueprint: "group"
+  identifier: "noderfp"
+  properties:
+    email: "noderfp@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "jeff"
+    - "jim"
+    - "omkar"
+    owners:
+    - "dave"
+  title: "Noderfp"
+- blueprint: "group"
+  identifier: "nodes"
+  properties:
+    email: "nodes@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "dave"
+    - "evan-bisontrails-co"
+    - "kyle"
+    - "omkar"
+    owners:
+    - "jim"
+  title: "Nodes"
+- identifier: "ops"
+  properties:
+    collaborators: []
+    privacy: "secret"
+  relations:
+    members:
+    - "don"
+    - "jim"
+    - "omkar"
+    - "don-cote"
+    - "jim-myers"
+  title: "Ops"
+- blueprint: "group"
+  identifier: "press"
+  properties:
+    email: "press@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "dave"
+  title: "Press"
+- identifier: "prod-dev"
+  properties:
+    collaborators: []
+    privacy: "closed"
+  relations:
+    members:
+    - "eric"
+    - "jim"
+    - "omkar"
+    - "sebastian"
+    - "eric-stone"
+    - "jim-myers"
+    - "sebastian-ruiz"
+  title: "Prod Dev"
+- blueprint: "group"
+  identifier: "prodeng"
+  properties:
+    email: "prodeng@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "anthony"
+    - "bryan"
+    - "sebastian"
+    owners:
+    - "don"
+  title: "Prodeng"
+- blueprint: "group"
+  identifier: "product-eng"
+  properties:
+    collaborators: []
+    email: "product-eng@flipsidecrypto.com"
+    privacy: "closed"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "anthony"
+    - "bryan"
+    - "chris"
+    - "don"
+    - "ed"
+    - "erik"
+    - "greg"
+    - "hannah"
+    - "sebastian"
+    - "shaun"
+    - "don-cote"
+    - "greg-north"
+    - "anthony-gabriele"
+    - "shaun-hutch"
+    - "edward-fleming"
+    - "chris-nersesyan"
+    - "bryan-cinman"
+    - "hannah-lerman"
+    - "sebastian-ruiz"
+    - "erik-brakke"
+    owners: []
+  title: "Product Eng"
+- blueprint: "group"
+  identifier: "production"
+  properties:
+    email: "production@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners: []
+  title: "Production"
+- identifier: "railsreactor"
+  properties:
+    collaborators: []
+    privacy: "secret"
+  relations:
+    members:
+    - "jim"
+    - "jim-myers"
+  title: "Railsreactor"
+- blueprint: "group"
+  identifier: "root"
+  properties:
+    aliases:
+    - "devops"
+    - "devops-team"
+    - "admin"
+    - "administrator"
+    - "webmaster"
+    - "security"
+    - "internal-tooling"
+    - "log-archive"
+    - "audit"
+    email: "root@flipsidecrypto.com"
+  relations:
+    admins:
+    - "jim"
+    - "jon"
+    - "kyle"
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners: []
+  title: "Root"
+- blueprint: "group"
+  identifier: "serverless-prod"
+  properties:
+    email: "serverless-prod@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners: []
+  title: "Serverless Prod"
+- blueprint: "group"
+  identifier: "serverless-stg"
+  properties:
+    email: "serverless-stg@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners: []
+  title: "Serverless Stg"
+- blueprint: "group"
+  identifier: "services"
+  properties:
+    aliases: []
+    email: "services@flipsidecrypto.com"
+  relations:
+    admins:
+    - "ryan-king"
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "artin"
+    - "greg"
+    owners: []
+  title: "Services"
+- blueprint: "group"
+  identifier: "solutions"
+  properties:
+    email: "solutions@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "dave"
+    - "eric"
+    - "jim"
+    owners: []
+  title: "Solutions"
+- blueprint: "group"
+  identifier: "staging"
+  properties:
+    email: "staging@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners: []
+  title: "Staging"
+- blueprint: "group"
+  identifier: "support"
+  properties:
+    aliases: []
+    email: "support@flipsidecrypto.com"
+  relations:
+    admins:
+    - "ashley"
+    - "gj"
+    - "simon"
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "support-flipsidecrypto-xyz-hs-inbox-com"
+    owners: []
+  title: "Support"
+- blueprint: "group"
+  identifier: "talent"
+  properties:
+    email: "talent@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners:
+    - "oldmorgan"
+  title: "Talent"
+- blueprint: "group"
+  identifier: "taxforms"
+  properties:
+    aliases: []
+    email: "taxforms@flipsidecrypto.com"
+  relations:
+    admins:
+    - "andrew"
+    - "mike-featherstone"
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "devin"
+    - "nick-fulton"
+    - "ryan-shon"
+    - "willhoffman"
+    owners: []
+  title: "Taxforms"
+- blueprint: "group"
+  identifier: "team"
+  properties:
+    email: "team@flipsidecrypto.com"
+  relations:
+    admins:
+    - "kerri"
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "aaron-ahmadi"
+    - "aaron"
+    - "adam"
+    - "alec"
+    - "alex-lian"
+    - "andrew"
+    - "angela"
+    - "anthony"
+    - "artin"
+    - "ashley"
+    - "austin"
+    - "ava"
+    - "avi"
+    - "ben"
+    - "brendan"
+    - "bryan"
+    - "carlos-mercado"
+    - "chance-h"
+    - "chris"
+    - "connor-flanagan"
+    - "corinne"
+    - "daniel"
+    - "danielle"
+    - "daphne"
+    - "dave"
+    - "deeksha"
+    - "denise"
+    - "desmond"
+    - "devin"
+    - "don"
+    - "drake"
+    - "ed"
+    - "elise"
+    - "eric-laurello"
+    - "eric"
+    - "erik"
+    - "evan"
+    - "fig"
+    - "gj"
+    - "graham"
+    - "greg"
+    - "hannah"
+    - "ian"
+    - "internal-tooling-bot"
+    - "isabel"
+    - "jack-forgash"
+    - "jack-forlines"
+    - "james-daly"
+    - "james-dyke"
+    - "james"
+    - "jamesholloway"
+    - "jason"
+    - "jericho"
+    - "jes"
+    - "jessica"
+    - "jj"
+    - "jon"
+    - "joseph"
+    - "julie"
+    - "julius"
+    - "justin"
+    - "kellen"
+    - "kyle"
+    - "larry"
+    - "liz"
+    - "madison"
+    - "mari"
+    - "mason"
+    - "matt"
+    - "meg"
+    - "michael-dillon"
+    - "mike-featherstone"
+    - "morgan-termaat"
+    - "nick-fulton"
+    - "nick"
+    - "olivia"
+    - "omkar"
+    - "paul"
+    - "ramsha"
+    - "raphael"
+    - "robel"
+    - "rochelle"
+    - "ryan-king"
+    - "ryan-shon"
+    - "ryan"
+    - "sam"
+    - "scott"
+    - "sebastian"
+    - "shah"
+    - "shaun"
+    - "simon"
+    - "stephen"
+    - "tarik"
+    - "titus"
+    - "trevor"
+    - "vahid"
+    - "willhoffman"
+    - "winnie"
+    - "xiuyang"
+    owners:
+    - "oldmorgan"
+    - "jim"
+  title: "Team"
+- blueprint: "group"
+  identifier: "trading"
+  properties:
+    email: "trading@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "andrew"
+    - "jeff"
+    - "nick-fulton"
+    - "phil"
+    owners:
+    - "jim"
+    - "mike-featherstone"
+  title: "Trading"
+- blueprint: "group"
+  identifier: "transit"
+  properties:
+    email: "transit@flipsidecrypto.com"
+  relations:
+    admins:
+    - "jim"
+    - "jon"
+    - "kyle"
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners: []
+  title: "Transit"
+- blueprint: "group"
+  identifier: "treasury"
+  properties:
+    aliases: []
+    collaborators: []
+    email: "treasury@flipsidecrypto.com"
+    privacy: "closed"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "anthony"
+    - "artin"
+    - "chance-h"
+    - "greg"
+    - "jason"
+    - "omkar"
+    - "paul"
+    - "ryan-king"
+    - "artin-rebekale"
+    - "greg-north"
+    - "anthony-gabriele"
+    - "paul-mikulskis"
+    - "chance-herriage"
+    owners: []
+  title: "Treasury"
+- blueprint: "group"
+  identifier: "treasury-fireblocks-cosigners"
+  properties:
+    email: "treasury-fireblocks-cosigners@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "jon"
+    - "kyle"
+    - "mike-featherstone"
+    - "nick-fulton"
+    - "omkar"
+    owners: []
+  title: "Treasury Fireblocks Cosigners"
+- blueprint: "group"
+  identifier: "treasury-fireblocks-cosigners-prod-administrator"
+  properties:
+    email: "treasury-fireblocks-cosigners-prod-administrator@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners: []
+  title: "Treasury Fireblocks Cosigners Prod Administrator"
+- blueprint: "group"
+  identifier: "treasury-fireblocks-cosigners-prod-secret-keeper"
+  properties:
+    email: "treasury-fireblocks-cosigners-prod-secret-keeper@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners: []
+  title: "Treasury Fireblocks Cosigners Prod Secret Keeper"
+- blueprint: "group"
+  identifier: "treasury-fireblocks-cosigners-stg-administrator"
+  properties:
+    email: "treasury-fireblocks-cosigners-stg-administrator@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners: []
+  title: "Treasury Fireblocks Cosigners Stg Administrator"
+- blueprint: "group"
+  identifier: "treasury-fireblocks-cosigners-stg-secret-keeper"
+  properties:
+    email: "treasury-fireblocks-cosigners-stg-secret-keeper@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners: []
+  title: "Treasury Fireblocks Cosigners Stg Secret Keeper"
+- blueprint: "group"
+  identifier: "trends"
+  properties:
+    email: "trends@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "avi"
+    - "dave"
+    - "jim"
+    owners: []
+  title: "Trends"
+- blueprint: "group"
+  identifier: "vault"
+  properties:
+    email: "vault@flipsidecrypto.com"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members: []
+    owners: []
+  title: "Vault"
+- blueprint: "group"
+  identifier: "velocity"
+  properties:
+    aliases: []
+    collaborators: []
+    email: "velocity@flipsidecrypto.com"
+    privacy: "closed"
+  relations:
+    admins: []
+    group-admins: []
+    group-members: []
+    group-owners: []
+    members:
+    - "anthony"
+    - "bryan"
+    - "chris"
+    - "don"
+    - "ed"
+    - "erik"
+    - "greg"
+    - "hannah"
+    - "sebastian"
+    - "shaun"
+    - "don-cote"
+    - "greg-north"
+    - "anthony-gabriele"
+    - "shaun-hutch"
+    - "edward-fleming"
+    - "chris-nersesyan"
+    - "bryan-cinman"
+    - "hannah-lerman"
+    - "sebastian-ruiz"
+    - "erik-brakke"
+    owners: []
+  title: "Velocity"
