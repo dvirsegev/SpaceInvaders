@@ -1,3 +1,4 @@
+  createMissingRelatedEntities: true
 - blueprint: "group"
   identifier: "activeeight"
   properties:
