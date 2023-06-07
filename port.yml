@@ -12,7 +12,7 @@
     - "hannah-lerman"
   title: "Access Flipside Team"
 - blueprint: "group"
-  identifier: "activeeight"
+  identifier: "activeight"
   properties:
     email: "activeeight@flipsidecrypto.com"
   relations:
