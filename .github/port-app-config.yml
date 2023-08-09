@@ -1,1 +1,15 @@
-createMissingRelatedEntities: true
+resources:
+  - kind: folder
+    selector:
+      query: 'true'
+      folders:
+        - path: resources/*
+          repos:
+            - SpaceInvaders
+    port:
+      entity:
+        mappings:
+          identifier: .folder.name
+          blueprint: "folder"
+          properties:
+            link: "abc"
