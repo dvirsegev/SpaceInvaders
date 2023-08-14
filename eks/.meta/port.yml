@@ -1,3 +1,5 @@
 - blueprint: "group"
   identifier: "activeeight"
   title: "Activeeigtht"
+  properties: 
+    readme: file://./README.md
